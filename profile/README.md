@@ -1,7 +1,7 @@
 # Naomi Carrigan
 
 <div align="center">
-<img alt="A woman in glasses and a blazer relaxes in an office, barefoot with feet on a desk. She holds a steaming mug, with a cityscape visible through the window." src="https://cdn.nhcarrigan.com/splash.png" width=500>
+<img alt="A woman in glasses and a blazer relaxes in an office, barefoot with feet on a desk. She holds a steaming mug, with a cityscape visible through the window." src="https://cdn.nhcarrigan.com/banner.jpg">
 </div>
 
 Hey there! 👋 I'm the founder of NHCarrigan, **Naomi** — a transfem software engineer, community manager, and (failed) VTuber who's passionate about building inclusive tech communities and breaking down barriers in the industry.
